@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.orhanobut:logger:1.15] C:\Users\ivan.STARTEK-ENG\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\805cc5bb3944b9a41d9499c837cfb330\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:2:11-45
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:7:5-61
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:7:19-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:11:5-29:19
+	android:label
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:12:9-45
+activity#com.startek.fm220_server.fm220demo
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:14:9-28:20
+	android:label
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:17:13-45
+	android:configChanges
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:16:13-74
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:15:13-62
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:19:13-24:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:20:17-89
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:20:25-87
+action#android.intent.action.MAIN
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:25:13-27:56
+	android:resource
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:27:17-54
+	android:name
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml:26:17-79
+uses-sdk
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+MERGED from [com.orhanobut:logger:1.15] C:\Users\ivan.STARTEK-ENG\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\805cc5bb3944b9a41d9499c837cfb330\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:1.15] C:\Users\ivan.STARTEK-ENG\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\805cc5bb3944b9a41d9499c837cfb330\AndroidManifest.xml:6:5-43
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		ADDED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DATA\gitTask\Android_7_Base_Server_SDK\app\src\main\AndroidManifest.xml

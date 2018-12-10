@@ -1,0 +1,4 @@
+#Fri Nov 16 09:40:31 CST 2018
+base.0=D\:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\71
+path.0=classes.dex
+renamed.0=classes.dex

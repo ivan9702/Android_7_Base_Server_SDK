@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "123,59",
+                        "endColumns": "46,62",
+                        "endOffsets": "165,117"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,62",
+                        "endOffsets": "97,160"
+                    }
+                }
+            ]
+        }
+    ]
+}

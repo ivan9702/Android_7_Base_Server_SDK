@@ -1,0 +1,17 @@
+StartekFM220Demo-Android7_20180622:
+1. Change expiry date into 2019/01/01.
+libstartek_jni.so and libfpapi.so:
+Source Code is LibfpapiLibstartekFM220-Telecom-Android7_20180622.zip
+
+StartekFM220Demo-Android7_20180314:
+1. Correct Layout of SDK.
+2. Change Android Name of SDK.
+libstartek_jni.so and libfpapi.so:
+Source Code is LibfpapiLibstartekFM220-Telecom-Android7_20180314.zip
+
+StartekFM220Demo-Android7_20180123:
+1. Change some strings.
+2. Even we don't put finger on the sensor, still return "success".
+3. Based on 201703221425-StartekFM220Demo-Android7-Holing.zip
+libstartek_jni.so and libfpapi.so:
+Source Code is LibfpapiLibstartekFM220-Telecom-Android7_20180123.zip

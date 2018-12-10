@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\DATA\\gitTask\\Android_7_Base_Server_SDK\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/widget0"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:text="TextView"
+        android:textSize="18sp"></TextView>
+
+    <ImageView
+        android:id="@+id/test_image"
+        android:layout_width="264dp"
+        android:layout_height="324dp"
+        android:layout_x="5dp"
+        android:layout_y="49dp"></ImageView>
+
+    <Button
+        android:id="@+id/discB"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="274dp"
+        android:layout_y="325dp"
+        android:text="DisC"></Button>
+
+    <Button
+        android:id="@+id/enrollB"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="277dp"
+        android:layout_y="100dp"
+        android:text="Enroll" />
+
+    <Button
+        android:id="@+id/captureB"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="273dp"
+        android:layout_y="388dp"
+        android:text="Capture" />
+
+    <Button
+        android:id="@+id/deleteB"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="277dp"
+        android:layout_y="274dp"
+        android:text="Delete" />
+
+    <Button
+        android:id="@+id/verifyB"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="276dp"
+        android:layout_y="215dp"
+        android:text="Verify" />
+
+    <Button
+        android:id="@+id/IdentifyB"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="277dp"
+        android:layout_y="158dp"
+        android:text="Identify" />
+
+    <Button
+        android:id="@+id/connectB"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_x="277dp"
+        android:layout_y="47dp"
+        android:text="Connect" />
+
+    <EditText
+        android:id="@+id/UserID"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_x="61dp"
+        android:layout_y="380dp"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="393dp" />
+
+    <EditText
+        android:id="@+id/FPID"
+        android:layout_width="39dp"
+        android:layout_height="wrap_content"
+        android:layout_x="222dp"
+        android:layout_y="382dp"
+        android:ems="10"
+        android:inputType="text|number|numberSigned|numberDecimal"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="449dp" />
+
+    <TextView
+        android:id="@+id/User_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="403dp"
+        android:text="UserID"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/FPID_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="180dp"
+        android:layout_y="400dp"
+        android:text="FPID"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="462dp" />
+
+    <TextView
+        android:id="@+id/Port_View"
+        android:layout_width="42dp"
+        android:layout_height="wrap_content"
+        android:layout_x="249dp"
+        android:layout_y="471dp"
+        android:text="Port"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="468dp" />
+
+    <TextView
+        android:id="@+id/IP_VIEW"
+        android:layout_width="22dp"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="484dp"
+        android:text="IP"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="468dp" />
+
+    <EditText
+        android:id="@+id/IP_Text"
+        android:layout_width="197dp"
+        android:layout_height="wrap_content"
+        android:layout_x="43dp"
+        android:layout_y="459dp"
+        android:ems="10"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <EditText
+        android:id="@+id/Port_Text"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:layout_x="299dp"
+        android:layout_y="456dp"
+        android:ems="10"
+        android:inputType="number"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+</AbsoluteLayout>
